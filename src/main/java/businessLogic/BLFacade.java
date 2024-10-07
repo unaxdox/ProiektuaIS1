@@ -30,7 +30,7 @@ import javax.jws.WebService;
 public interface BLFacade {
 
 	/**
-	 * This method returns all the cities where rides depart
+	 * This method returns all the cities where rides depart.
 	 * 
 	 * @return collection of cities
 	 */
